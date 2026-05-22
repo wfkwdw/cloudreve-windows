@@ -1,6 +1,6 @@
-# cloudreve-manager
+# cloudreve-windows
 
-# Cloudreve 服务管理工具
+# Cloudreve windows 网盘一键搭建工具，实现开机自运行
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6%2B-green.svg)](https://www.python.org/)
